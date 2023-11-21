@@ -26,5 +26,6 @@ public class Main {
         System.out.println(miauto3.getColor());
         int sumaanios=miauto.getAnio()+miauto2.getAnio()+miauto3.getAnio();
         System.out.println("La suma de los años de los autos es "+sumaanios);
+        System.out.println("pruebaaaaaaaaa");
     }
 }
