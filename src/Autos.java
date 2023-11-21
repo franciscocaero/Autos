@@ -25,10 +25,4 @@ public class Autos {
         this.color = newColor;
     }
 
-    public void metodo1(){
-
-    }
-    public void metodo2(){
-
-    }
 }

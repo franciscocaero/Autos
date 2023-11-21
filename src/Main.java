@@ -6,9 +6,9 @@ public class Main {
         miauto=new Autos("Chevrolet");
         miauto2=new Autos("Bugatti");
         miauto3=new Autos("Volkswagen");
-        miauto.setAnio(2);
-        miauto2.setAnio(4);
-        miauto3.setAnio(5);
+        miauto.setAnio(2012);
+        miauto2.setAnio(2015);
+        miauto3.setAnio(2009);
         miauto.setColor("Rojo");
         miauto2.setColor("Plomo");
         miauto3.setColor("Negro");
